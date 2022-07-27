@@ -9,5 +9,3 @@
     puts i
   end
 end
-
-
